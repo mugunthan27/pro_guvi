@@ -5,7 +5,7 @@ e=len(b)
 i=0
 j=0
 c=[]
-while d>0:
+while (d>0):
     if a[i]==b[j]:
         c.append(a[i])
     j=j+1
